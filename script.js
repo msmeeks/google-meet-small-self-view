@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Meet Small Self-View
 // @namespace    github.com/msmeeks/google-meet-small-self-view
-// @version      0.1
+// @version      0.2
 // @description  Automatically shrink the self-view thumbnail in google.meet and move it to the top left corner
 // @author       msmeeks
 // @match        https://meet.google.com/*
